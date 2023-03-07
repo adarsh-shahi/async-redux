@@ -1,0 +1,1 @@
+Practisiing asyncThunk and redux toolkit query for async calls
