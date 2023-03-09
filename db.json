@@ -1,5 +1,30 @@
 {
-	"users": [{ "id": 1, "name": "Myra" }],
-	"ablums": [],
-	"photos": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Russell Howe",
+      "id": 2
+    },
+    {
+      "name": "Dr. Beulah Monahan",
+      "id": 3
+    },
+    {
+      "name": "Timothy Collier",
+      "id": 4
+    },
+    {
+      "name": "Kristina Krajcik",
+      "id": 5
+    },
+    {
+      "name": "Sam Kuhn",
+      "id": 6
+    }
+  ],
+  "ablums": [],
+  "photos": []
 }
